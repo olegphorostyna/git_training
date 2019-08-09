@@ -1,1 +1,2 @@
-Hi! I'm Alice. I'm a file someone added to this repository a while ago. Cahnges before diverge alice. New text after Patrick are added.
+Hi! I'm Alice. New changes
+
